@@ -2,7 +2,10 @@
 
 ### Key
 
-- **Bold** = Requirement
+
+|Symbol|Meaning|
+|:-:|:-:|
+|**Bold**|Requirement|
 
 ## Summer of **Freshmen** Year
 
