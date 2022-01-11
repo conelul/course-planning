@@ -6,6 +6,9 @@
 |Symbol|Meaning|
 |:-:|:-:|
 |**Bold**|Requirement/Important|
+|?|Maybe|
+|??|Exact Course Unknown|
+|???|Placeholder|
 
 ## Summer of **Freshmen** Year
 
@@ -18,7 +21,7 @@
 
 ### Courses
 
-- College Compsci.
+- AP. Compsci A
 - AP Calc. BC
 - **Biology**
 - **PE**
@@ -41,8 +44,8 @@
 - **Fine Arts**
 - History??
 - AP English Literature & Composition
-- AP Physics II
-- **Free**?
+- AP Physics I
+- Chemistry?
 
 ### Summer
 
@@ -53,7 +56,9 @@
 
 ### Courses
 
-- ???
+- AP Physics II
+- AP Chemistry?
+- History??
 
 ### Summer
 
