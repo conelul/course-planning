@@ -41,11 +41,11 @@
 
 - College Compsci.
 - Linear Algebra
-- **Fine Arts**
 - History??
 - AP English Literature & Composition
 - AP Physics I
 - Chemistry?
+- **Free**
 
 ### Summer
 
@@ -59,6 +59,7 @@
 - AP Physics II
 - AP Chemistry?
 - History??
+- **Fine Arts**
 
 ### Summer
 
