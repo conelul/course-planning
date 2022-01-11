@@ -1,11 +1,11 @@
-# **Course Planning** (wow, very fun)
+# **Course Planning** (Roadmap)
 
 ### Key
 
 
 |Symbol|Meaning|
 |:-:|:-:|
-|**Bold**|Requirement|
+|**Bold**|Requirement/Important|
 
 ## Summer of **Freshmen** Year
 
@@ -18,7 +18,7 @@
 
 ### Courses
 
-- AP Compsci. B
+- College Compsci.
 - AP Calc. BC
 - **Biology**
 - **PE**
@@ -29,7 +29,7 @@
 ### Summer
 
 - [Cornell](https://sce.cornell.edu/precollege/summer-college)? Not many courses offered.
-- **Some kind of Physics**
+- Some kind of Physics
 
 
 ## **Junior** Year
