@@ -9,6 +9,10 @@
 |?|Maybe|
 |??|Exact Course Unknown|
 |???|Placeholder|
+|✅|Offered at Roycemore|
+|❔|Independent Study Possible|
+|❌|Not Currently Offered at Roycemore|
+
 
 ## Summer of **Freshmen** Year
 
@@ -20,13 +24,13 @@
 
 ### Courses
 
-- AP. Compsci A
-- AP Calc. BC
-- **Biology**
-- **PE**
-- AP US Hist. (Or normal?)
-- American Lit.
-- **French IV**
+- ✅ AP. Compsci A
+- ❔ AP Calc. BC
+- ✅ **Biology**
+- ✅ **PE**
+- ✅ AP US Hist. (Or normal?)
+- ✅ American Lit.
+- ✅ **French IV**
 
 ### Summer
 
@@ -38,13 +42,13 @@
 
 ### Courses
 
-- College Compsci.
-- Linear Algebra
-- History??
-- AP English Literature & Composition
-- AP Physics I
-- Chemistry?
-- **Free**
+- ❌ College Compsci.
+- ❌ Linear Algebra
+- ✅ History??
+- ✅ AP English Literature & Composition
+- ✅ AP Physics I
+- ✅ Chemistry?
+- ✅ **Free**
 
 ### Summer
 
@@ -55,10 +59,10 @@
 
 ### Courses
 
-- AP Physics II
-- AP Chemistry?
-- History??
-- **Fine Arts**
+- ✅ AP Physics II
+- ✅ AP Chemistry?
+- ✅ History??
+- ✅ **Fine Arts**
 
 ### Summer
 
